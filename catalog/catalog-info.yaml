@@ -24,4 +24,4 @@ spec:
   lifecycle: experimental
   owner: default-team
   definition:
-    $text: https://github.com/trisberg/rest-api-db/blob/main/api-docs.yaml
+    $text: http://rest-api-db.default.apps.34.138.142.240.nip.io/v3/api-docs
