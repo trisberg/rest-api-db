@@ -24,4 +24,4 @@ spec:
   lifecycle: experimental
   owner: default-team
   definition:
-    $text: http://rest-api-db.default.apps.34.139.6.200.nip.io/v3/api-docs
+    $text: http://rest-api-db.default.apps.34.138.142.240.nip.io/v3/api-docs
